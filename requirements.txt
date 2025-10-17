@@ -1,0 +1,7 @@
+# Only needed if you run train_cloud.py standalone in another CI
+numpy
+pandas
+requests
+hmmlearn
+vaderSentiment
+tqdm
